@@ -1,7 +1,8 @@
 name: screen_util
 description: "A Flutter package for responsive UI and screen size adaptation."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/rhrazib/screen_util"
+author: "Rokibul Hasan <rokibulhasancse@gmail.com>"
 
 environment:
   sdk: ^3.10.8
