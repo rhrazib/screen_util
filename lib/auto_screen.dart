@@ -1,5 +1,13 @@
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+library auto_screen;
+
+// Core screen utilities
+export 'screen_util.dart';
+
+// Responsive text utilities
+export 'responsive_text.dart';
+
+// Responsive layout utilities
+export 'responsive_layout.dart';
+
+// Responsive breakpoints and media query utilities
+export 'responsive_breakpoints.dart';
