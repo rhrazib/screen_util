@@ -1,7 +1,9 @@
-name: screen_util
+name: auto_screen
 description: "A Flutter package for responsive UI and screen size adaptation."
 version: 0.0.1
-homepage: "https://github.com/rhrazib/screen_util"
+homepage: "https://github.com/rhrazib/auto_screen"
+repository: "https://github.com/rhrazib/auto_screen"
+
 #authors:
 #  - Rokibul Hasan <rokibulhasancse@gmail.com>
 

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:screen_util/screen_util.dart';
+import 'package:auto_screen/auto_screen.dart';
 
 void main() {
   test('adds one to input values', () {
